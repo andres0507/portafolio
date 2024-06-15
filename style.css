@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: auto;
+}
+
+.container-titulo {
+  width: 100%;
+  height: auto;
+  background-color: #51eff1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+img {
+    width: 8rem;
+   
+}
+.container-image {
+
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+   
+
+}
+
+.titulo  {
+    width: 35vw;
+font-size: .9rem;
+
+}
+
+.container-image h1 {
+    font-size:1,8rem;
+    width: 30vw;
+      
+}
+
+main {
+  width: 100%;
+  height: auto;
+  padding: 1rem;
+}
+
+
+.title {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.proyectos {
+    height: auto;
+
+}
+
+.proyectos p {
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.redes {
+    width: 100vw;
+    height: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background-color: #51eff1;
+
+}
+
+.redes i {
+    
+    font-size: 2rem;
+    
+}
+
+
+
+
+
